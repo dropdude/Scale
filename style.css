@@ -1,0 +1,43 @@
+
+body{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin: 5% 10% 5% 10%;
+
+font-size:30px;
+}
+
+header{
+  text-align: center;
+  border: black 6px solid;
+  background-color: antiquewhite;
+  color: black;
+  padding: 40 px;
+}
+
+article{
+  margin-top: 50 px;
+  padding-top: 25 px;
+  text-align: center;
+  border: black 1 px solid;
+  background-color: antiquewhite;
+
+}
+div {
+  background-color: antiquewhite;
+  width: 300px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+}
+
+img{
+  width: 75%;
+}
+
+footer{
+  text-align: center;
+  border: black 1 px solid;
+  background-color: antiquewhite;
+  font-size: 20 px;
+  margin-top: 50 px;
+  padding: 25px;
+}
